@@ -10,6 +10,5 @@ Trigger build
 Triger build
 
 Trigger Build
-Trigger build
 
 # trigger for scan
